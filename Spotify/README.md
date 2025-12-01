@@ -18,6 +18,8 @@ This projects analyses Spotify data to identify key drivers of success.
 
 ├── .venv/               # Virtual env (ignored by Git)
 
+├── requirements.txt
+
 └── README.md
 
 

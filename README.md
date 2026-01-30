@@ -235,8 +235,8 @@ This project is available for educational and research purposes.
 
 ## 👨‍💻 Author
 
-Name: Alejandro Perela
-Email: alejandro.perela.posada@gmail.com
-LinkedIn: https://www.linkedin.com/in/alejandro-perela-posada-575408a7/
+- Name: Alejandro Perela
+- Email: alejandro.perela.posada@gmail.com
+- LinkedIn: https://www.linkedin.com/in/alejandro-perela-posada-575408a7/
 
 **Note**: This analysis is based on Spotify data and is intended for educational purposes. The models' predictions should be interpreted as analytical insights rather than definitive popularity forecasts.
